@@ -1,7 +1,7 @@
 public class jurnal01{
-public static void main(String[] args) {
-    system.out.println(x:"Hello");
-    system.out.println(x:"world");
+public static void main(String[] argsStrings) {
+    System.out.print("Hello" + " "); 
+    System.out.println("World"); 
 }
 
 }
